@@ -31,3 +31,8 @@ Guides:
 Contributing:
 
 Feel free to create pull requests to the develop branch.
+I will try to answer any issues that you have.
+
+Finally:
+
+I am not an expert and this is one of my first little projects.
