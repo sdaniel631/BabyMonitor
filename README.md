@@ -26,4 +26,8 @@ Guides:
 [Setting up the temperature probe](https://pimylifeup.com/raspberry-pi-temperature-sensor/) - I used a breadboard for testing and then soldered.  
 [Video Streaming](https://towardsdatascience.com/video-streaming-in-web-browsers-with-opencv-flask-93a38846fe00)  
 [Setting up the microphone](https://makersportal.com/blog/2018/8/23/recording-audio-on-the-raspberry-pi-with-python-and-a-usb-microphone)  
-[Twilio Blog](https://www.twilio.com/blog/smart-baby-monitor-python-raspberry-pi-twilio-sms-peripheral-sensors)  
+[Twilio Blog](https://www.twilio.com/blog/smart-baby-monitor-python-raspberry-pi-twilio-sms-peripheral-sensors) 
+
+Contributing:
+
+Feel free to create pull requests to the develop branch.
